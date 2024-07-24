@@ -32,7 +32,7 @@ python add_image_in_frame.py base_image.jpg overlay_image.jpg output_image.jpg
 ## Beschreibung des Programms
 
 1. **Bilder laden**: Das Programm öffnet die Basis- und Overlay-Bilder.
-2. **Größe des Overlay-Bilds anpassen**: Das Overlay-Bild wird auf 33% der Breite des Basisbilds verkleinert, wobei das Seitenverhältnis beibehalten wird.
+2. **Größe des Overlay-Bilds anpassen**: Das Overlay-Bild wird auf 40% der Breite des Basisbilds verkleinert, wobei das Seitenverhältnis beibehalten wird.
 3. **Rahmen hinzufügen**: Ein roter Rahmen wird um das Overlay-Bild hinzugefügt.
 4. **Position berechnen**: Die Position für das Overlay-Bild wird so berechnet, dass es im oberen rechten Eck des Basisbilds platziert wird.
 5. **Bilder kombinieren**: Das Overlay-Bild wird an der berechneten Position in das Basisbild eingefügt.
